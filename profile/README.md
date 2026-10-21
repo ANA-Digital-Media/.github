@@ -43,19 +43,6 @@ This GitHub organization is home to our engineering team: the people who build t
 - **Transparency.** Decisions are documented, and work is easy to review and trace.
 - **Quality by default.** Performance, accessibility, and security are part of the job, not extras.
 
-## 📂 Repositories
-
-Browse our [repositories](https://github.com/orgs/YOUR-ORG-NAME/repositories) to see what we're working on. Some projects are public, others are private for client or internal use.
-
-## 💬 Contributing
-
-Found a bug or have an idea in one of our public repositories? We'd love to hear it.
-
-1. Open an issue describing the problem or suggestion
-2. For code changes, fork the repo and open a pull request
-3. Keep changes focused and match the existing code style
-
-Please check each repository's own README for specific guidelines.
 
 ## 📬 Get in Touch
 
