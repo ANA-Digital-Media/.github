@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://anadigitalmedia.in/">
-  <img src="/profile/image.png" alt="ANA Digital Media" width="260" />
+  <img src="/profile/image.png" alt="ANA Digital Media " width="260" />
 </a>
 
 ### Performance marketing, built on solid engineering.
