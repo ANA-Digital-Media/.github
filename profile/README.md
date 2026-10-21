@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://anadigitalmedia.in/">
-  <img src="https://edge.techstreat.com/ana-digital-media/img/all-images/main-logo.webp" alt="ANA Digital Media" width="260" />
+  <img src="/profile/image.png" alt="ANA Digital Media" width="260" />
 </a>
 
 ### Performance marketing, built on solid engineering.
